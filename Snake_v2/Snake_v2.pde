@@ -1,12 +1,16 @@
 //globale variabler 
-//Test kan I se dette?
+
+
+
+//Test Kyster
+
 //liste over alle punkter vores slange optager
 ArrayList<PVector> longSnake;
 
 //bestemmer hvor lang vores slange skal være,
 //før vi sletter den ældste del af slangen.
 int snakeSize;
-//Matzen er gay
+
 //bestemmer hvilken retning slangen bevæger sig
 PVector dir;
 
