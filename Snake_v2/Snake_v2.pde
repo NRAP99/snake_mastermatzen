@@ -1,5 +1,5 @@
 //globale variabler 
-
+//Test Kyster
 //liste over alle punkter vores slange optager
 ArrayList<PVector> longSnake;
 
